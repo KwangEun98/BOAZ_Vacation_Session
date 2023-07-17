@@ -2,7 +2,8 @@
 
 21기 BOAZ 방학 세션입니다.
 
-Curriculum
+
+**Curriculum**
 
 
 |Week|날짜|세션 내용|
